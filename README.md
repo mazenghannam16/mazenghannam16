@@ -4,6 +4,7 @@ I develop Flutter apps and websites, working across frontend and backend. My too
 
 ## My toolkit
 
+<p>
 <img src="4-tech-flutter.png" alt="Flutter" width="92" height="29">
 <img src="5-tech-firebase.png" alt="Firebase" width="92" height="29">
 <img src="6-tech-sql.png" alt="SQL" width="92" height="29">
@@ -11,6 +12,7 @@ I develop Flutter apps and websites, working across frontend and backend. My too
 <img src="8-tech-html.png" alt="HTML" width="92" height="29">
 <img src="9-tech-php.png" alt="PHP" width="92" height="29">
 <img src="10-tech-python.png" alt="Python" width="92" height="29">
+</p>
 
 ## Selected projects
 
